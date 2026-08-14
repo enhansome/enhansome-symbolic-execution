@@ -205,7 +205,7 @@
             "last_commit": "2026-08-12T13:16:31Z",
             "owner": "pschanely",
             "repo": "CrossHair",
-            "stars": 1313
+            "stars": 1314
           }
         },
         {
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:07:40.923Z",
+    "last_updated": "2026-08-14T03:16:12.962Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
     "enhanced_repository": "enhansome/enhansome-symbolic-execution",

@@ -43,12 +43,12 @@
 ### Java
 
 * [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,098 | 🐛 349 | 🌐 Java | 📅 2026-08-10 for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
-* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,098 | 🐛 349 | 🌐 Java | 📅 2026-08-10 for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3) ⭐ 12,550 | 🐛 89 | 🌐 C++ | 📅 2026-08-13.
+* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,098 | 🐛 349 | 🌐 Java | 📅 2026-08-10 for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3) ⭐ 12,556 | 🐛 88 | 🌐 C++ | 📅 2026-08-14.
 * [jCUTE](http://osl.cs.illinois.edu/software/jcute/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,098 | 🐛 349 | 🌐 Java | 📅 2026-08-10 for instrumentation. Supports [lp\_solve](http://lpsolve.sourceforge.net/).
 * [Symbolic PathFinder (SPF)](https://github.com/SymbolicPathFinder/jpf-symbc) ⭐ 170 | 🐛 60 | 🌐 Java | 📅 2026-02-26 - Symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers, lazy initialization, etc.
 * [JDart](https://github.com/psycopaths/jdart) ⭐ 128 | 🐛 18 | 🌐 Java | 📅 2019-06-02 - Dynamic symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers using [JConstraints](https://github.com/psycopaths/jconstraints) ⭐ 21 | 🐛 1 | 🌐 Java | 📅 2023-04-16.
 * [CATG](https://github.com/ksen007/janala2) ⭐ 106 | 🐛 5 | 🌐 Java | 📅 2018-02-20 - Concolic execution tool that uses [ASM](http://asm.ow2.org/) for instrumentation. Uses CVC4.
-* [SWAT](https://github.com/SWAT-project/SWAT) ⭐ 46 | 🐛 11 | 🌐 Java | 📅 2026-08-04 - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) ⭐ 243 | 🐛 143 | 🌐 SMT | 📅 2026-08-12 for formula generation and currently [Z3](https://github.com/Z3Prover/z3) ⭐ 12,550 | 🐛 89 | 🌐 C++ | 📅 2026-08-13 as a solver.
+* [SWAT](https://github.com/SWAT-project/SWAT) ⭐ 46 | 🐛 11 | 🌐 Java | 📅 2026-08-04 - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) ⭐ 243 | 🐛 143 | 🌐 SMT | 📅 2026-08-12 for formula generation and currently [Z3](https://github.com/Z3Prover/z3) ⭐ 12,556 | 🐛 88 | 🌐 C++ | 📅 2026-08-14 as a solver.
 * [JFuzz](http://people.csail.mit.edu/akiezun/jfuzz/) - Concolic execution tool built on [Java PathFinder](https://github.com/javapathfinder).
 * [JBSE](http://pietrobraione.github.io/jbse/) - Symbolic execution tool that uses a custom JVM. Supports CVC3, CVC4, Sicstus, and Z3.
 * [Key](https://www.key-project.org/) - Theorem Prover that uses specifications written in Java Modeling Language (JML).
@@ -81,7 +81,7 @@
 
 ### Python
 
-* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,313 | 🐛 74 | 🌐 Python | 📅 2026-08-12 - Symbolic execution tool for verifying properties of Python functions.
+* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,314 | 🐛 74 | 🌐 Python | 📅 2026-08-12 - Symbolic execution tool for verifying properties of Python functions.
 * [PyExZ3](https://github.com/thomasjball/PyExZ3) ⭐ 344 | 🐛 9 | 🌐 HTML | 📅 2025-12-12 - Symbolic execution of Python functions. A rewrite of the [NICE](https://code.google.com/archive/p/nice-of) project's symbolic execution tool.
 * [APEX](https://github.com/allexdav2/apex) - Concolic execution engine for Python with coverage-guided test generation. Built in Rust.
 
@@ -121,4 +121,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
