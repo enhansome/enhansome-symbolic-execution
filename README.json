@@ -61,7 +61,7 @@
             "last_commit": "2026-02-26T08:19:49Z",
             "owner": "SymbolicPathFinder",
             "repo": "jpf-symbc",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -147,8 +147,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-15T22:22:31Z",
+            "language": "LLVM",
+            "last_commit": "2026-08-16T22:11:41Z",
             "owner": "Generative-Program-Analysis",
             "repo": "GenSym",
             "stars": 147
@@ -202,7 +202,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:16:31Z",
+            "last_commit": "2026-08-16T23:38:11Z",
             "owner": "pschanely",
             "repo": "CrossHair",
             "stars": 1315
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-10T10:03:51Z",
             "owner": "cea-sec",
             "repo": "miasm",
-            "stars": 3922
+            "stars": 3924
           }
         },
         {
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:12:38.548Z",
+    "last_updated": "2026-08-17T02:10:51.001Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
     "enhanced_repository": "enhansome/enhansome-symbolic-execution",
