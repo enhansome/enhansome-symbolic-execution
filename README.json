@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T08:35:07Z",
+            "last_commit": "2026-08-17T13:59:04Z",
             "owner": "soot-oss",
             "repo": "soot",
             "stars": 3098
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T08:35:07Z",
+            "last_commit": "2026-08-17T13:59:04Z",
             "owner": "soot-oss",
             "repo": "soot",
             "stars": 3098
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T08:35:07Z",
+            "last_commit": "2026-08-17T13:59:04Z",
             "owner": "soot-oss",
             "repo": "soot",
             "stars": 3098
@@ -134,10 +134,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-10T11:03:15Z",
+            "last_commit": "2026-08-17T23:48:15Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 320
+            "stars": 321
           }
         },
         {
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-10T11:03:15Z",
+            "last_commit": "2026-08-17T23:48:15Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 320
+            "stars": 321
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-10T10:03:51Z",
             "owner": "cea-sec",
             "repo": "miasm",
-            "stars": 3924
+            "stars": 3923
           }
         },
         {
@@ -312,10 +312,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-10T11:03:15Z",
+            "last_commit": "2026-08-17T23:48:15Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 320
+            "stars": 321
           }
         },
         {
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:10:51.001Z",
+    "last_updated": "2026-08-18T02:06:56.085Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
     "enhanced_repository": "enhansome/enhansome-symbolic-execution",
