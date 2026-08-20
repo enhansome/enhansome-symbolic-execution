@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 101762821,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:14:10Z",
+                "last_commit": "2026-08-19T15:15:09Z",
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1315
+                "stars": 1316
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-10T10:03:51Z",
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3926
+                "stars": 3928
               }
             },
             {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:13.625Z",
+    "last_updated": "2026-08-20T02:08:25.659Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_id": 97649913,
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
