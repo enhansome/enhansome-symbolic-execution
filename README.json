@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 722783463,
                 "language": "Java",
-                "last_commit": "2026-08-21T11:19:29Z",
+                "last_commit": "2026-08-22T10:11:19Z",
                 "owner": "SWAT-project",
                 "repo": "SWAT",
                 "stars": 47
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-20T13:53:40Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 323
+                "stars": 322
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-08-20T13:53:40Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 323
+                "stars": 322
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2026-08-20T13:53:40Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 323
+                "stars": 322
               }
             },
             {
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:06:39.414Z",
+    "last_updated": "2026-08-23T02:15:28.216Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_id": 97649913,
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
