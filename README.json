@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Owi",
+              "description": "Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run Rust code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573640699,
+                "language": "OCaml",
+                "last_commit": "2026-08-24T10:14:28Z",
+                "owner": "OCamlPro",
+                "repo": "owi",
+                "stars": 322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "LimeTB",
               "description": "Concolic execution tool that uses Soot for instrumentation. Supports Yices and Boolector. Concolic execution can be distributed.",
               "children": [],
@@ -141,7 +163,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-20T13:53:40Z",
+                "last_commit": "2026-08-24T10:14:28Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
@@ -171,6 +193,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "VSharp",
+              "description": "Symbolic execution engine for .NET assemblies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63795846,
+                "language": "C++",
+                "last_commit": "2025-01-06T12:15:05Z",
+                "owner": "VSharp-team",
+                "repo": "VSharp",
+                "stars": 56
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Owi",
               "description": "Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run C code.",
               "children": [],
@@ -178,7 +222,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-20T13:53:40Z",
+                "last_commit": "2026-08-24T10:14:28Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
@@ -203,6 +247,28 @@
           "description": null,
           "node_type": "group",
           "title": "C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jalangi2",
+              "description": "Dynamic analysis framework for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27174518,
+                "language": "JavaScript",
+                "last_commit": "2026-01-10T18:37:50Z",
+                "owner": "Samsung",
+                "repo": "jalangi2",
+                "stars": 494
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
         },
         {
           "children": [
@@ -252,10 +318,10 @@
                 "archived": false,
                 "id": 25875083,
                 "language": "Python",
-                "last_commit": "2026-08-10T10:03:51Z",
+                "last_commit": "2026-08-24T08:57:49Z",
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3935
+                "stars": 3937
               }
             },
             {
@@ -285,7 +351,7 @@
                 "last_commit": "2026-05-07T15:28:41Z",
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2251
+                "stars": 2252
               }
             },
             {
@@ -327,7 +393,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-20T13:53:40Z",
+                "last_commit": "2026-08-24T10:14:28Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
@@ -425,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:13:37.957Z",
+    "last_updated": "2026-08-24T14:12:09.754Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_id": 97649913,
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
