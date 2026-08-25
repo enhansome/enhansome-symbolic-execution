@@ -351,7 +351,7 @@
                 "last_commit": "2026-05-07T15:28:41Z",
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2252
+                "stars": 2253
               }
             },
             {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:09:51.457Z",
+    "last_updated": "2026-08-25T06:01:42.262Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_id": 97649913,
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
