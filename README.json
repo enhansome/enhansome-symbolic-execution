@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-24T08:57:49Z",
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3937
+                "stars": 3940
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3859
+                "stars": 3858
               }
             },
             {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:09.754Z",
+    "last_updated": "2026-08-25T02:09:51.457Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_id": 97649913,
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
