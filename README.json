@@ -178,10 +178,10 @@
                 "archived": false,
                 "id": 524244628,
                 "language": "LLVM",
-                "last_commit": "2026-08-18T21:35:04Z",
+                "last_commit": "2026-08-26T00:31:35Z",
                 "owner": "Generative-Program-Analysis",
                 "repo": "GenSym",
-                "stars": 148
+                "stars": 149
               }
             }
           ],
@@ -262,7 +262,7 @@
                 "last_commit": "2026-01-10T18:37:50Z",
                 "owner": "Samsung",
                 "repo": "jalangi2",
-                "stars": 494
+                "stars": 495
               }
             }
           ],
@@ -284,7 +284,7 @@
                 "last_commit": "2026-08-19T15:15:09Z",
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1316
+                "stars": 1317
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-24T08:57:49Z",
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3940
+                "stars": 3943
               }
             },
             {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:42.262Z",
+    "last_updated": "2026-08-26T02:15:46.997Z",
     "original_repository": "ksluckow/awesome-symbolic-execution",
     "original_repository_id": 97649913,
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
