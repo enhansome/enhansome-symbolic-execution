@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T10:14:28Z",
+                "last_commit": "2026-08-27T00:29:55Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
@@ -151,7 +151,7 @@
                 "last_commit": "2026-03-16T09:08:20Z",
                 "owner": "eurecom-s3",
                 "repo": "symcc",
-                "stars": 876
+                "stars": 875
               }
             },
             {
@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T10:14:28Z",
+                "last_commit": "2026-08-27T00:29:55Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
@@ -222,7 +222,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T10:14:28Z",
+                "last_commit": "2026-08-27T00:29:55Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-24T08:57:49Z",
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3943
+                "stars": 3944
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858
+                "stars": 3857
               }
             },
             {
@@ -393,7 +393,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T10:14:28Z",
+                "last_commit": "2026-08-27T00:29:55Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
@@ -491,9 +491,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:15:46.997Z",
-    "original_repository": "ksluckow/awesome-symbolic-execution",
-    "original_repository_id": 97649913,
+    "last_updated": "2026-08-27T10:39:58.210Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 97649913,
+      "language": null,
+      "last_commit": "2026-03-14T05:30:15Z",
+      "owner": "ksluckow",
+      "repo": "awesome-symbolic-execution",
+      "stars": 1497
+    },
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
     "enhanced_repository": "enhansome/enhansome-symbolic-execution",
     "enhanced_repository_description": null,
