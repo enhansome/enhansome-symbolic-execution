@@ -97,7 +97,7 @@
 
 * [miasm](https://github.com/cea-sec/miasm) ⭐ 3,944 | 🐛 176 | 🌐 Python | 📅 2026-08-24 - Reverse engineering framework. Includes symbolic execution.
 * [manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for binaries (x86, x86\_64 and ARMV7) and Ethereum smart contract bytecode.
-* [BAP](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,253 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07 - Binary Analysis Platform provides a framework for writing program analysis tools.
+* [BAP](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,254 | 🐛 43 | 🌐 OCaml | 📅 2026-05-07 - Binary Analysis Platform provides a framework for writing program analysis tools.
 * [BinCAT](https://github.com/airbus-seclab/bincat) ⭐ 1,872 | 🐛 18 | 🌐 OCaml | 📅 2025-02-25 - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [MAAT](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 32 | 🌐 C++ | 📅 2026-05-22 - Low-level symbolic execution tool, uses Ghidra's p-code.
 * [Owi](https://github.com/OCamlPro/owi) ⭐ 322 | 🐛 152 | 🌐 OCaml | 📅 2026-08-27 - Parallel symbolic execution engine built on WebAssembly (Wasm).
