@@ -18,7 +18,8 @@
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "soot-oss",
                 "repo": "soot",
                 "stars": 3098
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "soot-oss",
                 "repo": "soot",
                 "stars": 3098
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "soot-oss",
                 "repo": "soot",
                 "stars": 3098
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "SymbolicPathFinder",
                 "repo": "jpf-symbc",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "psycopaths",
                 "repo": "jdart",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "ksen007",
                 "repo": "janala2",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "SWAT-project",
                 "repo": "SWAT",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "eurecom-s3",
                 "repo": "symcc",
                 "stars": 875
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -181,8 +191,9 @@
                 "last_commit": "2026-08-26T00:31:35Z",
                 "owner": "Generative-Program-Analysis",
                 "repo": "GenSym",
-                "stars": 149
-              }
+                "stars": 150
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -204,7 +215,8 @@
                 "owner": "VSharp-team",
                 "repo": "VSharp",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -226,7 +238,8 @@
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "jburnim",
                 "repo": "crest",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -263,7 +277,8 @@
                 "owner": "Samsung",
                 "repo": "jalangi2",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -284,8 +299,9 @@
                 "last_commit": "2026-08-19T15:15:09Z",
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1317
-              }
+                "stars": 1318
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -300,7 +316,8 @@
                 "owner": "thomasjball",
                 "repo": "PyExZ3",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -322,7 +339,8 @@
                 "owner": "cea-sec",
                 "repo": "miasm",
                 "stars": 3944
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -336,8 +354,9 @@
                 "last_commit": "2026-06-24T16:28:22Z",
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857
-              }
+                "stars": 3858
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -352,7 +371,8 @@
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
                 "stars": 2254
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -367,7 +387,8 @@
                 "owner": "airbus-seclab",
                 "repo": "bincat",
                 "stars": 1872
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "trailofbits",
                 "repo": "maat",
                 "stars": 651
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -397,7 +419,8 @@
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -412,7 +435,8 @@
                 "owner": "feliam",
                 "repo": "pysymemu",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -427,7 +451,8 @@
                 "owner": "codelion",
                 "repo": "pathgrind",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -442,7 +467,8 @@
                 "owner": "agra-uni-bremen",
                 "repo": "symex-vp",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -464,7 +490,8 @@
                 "owner": "ispras",
                 "repo": "oss-sydr-fuzz",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             },
             {
               "node_type": "item",
@@ -479,7 +506,8 @@
                 "owner": "boogie-org",
                 "repo": "symbooglix",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T12:17:52.645Z"
             }
           ],
           "description": null,
@@ -491,7 +519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:34.097Z",
+    "last_updated": "2026-08-28T12:17:52.645Z",
     "original_repository_info": {
       "archived": false,
       "id": 97649913,
