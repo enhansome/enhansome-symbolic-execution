@@ -181,7 +181,7 @@
                 "open_issues": 18,
                 "owner": "psycopaths",
                 "repo": "jdart",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:51.977Z",
+    "last_updated": "2026-08-29T07:28:49.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
