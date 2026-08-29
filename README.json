@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seamless bug-finding for C, C++, Go, Rust, Wasm and Zig",
+                "homepage": "https://ocamlpro.github.io/owi/",
                 "id": 573640699,
                 "language": "OCaml",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T00:29:55Z",
+                "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322
+                "stars": 323,
+                "topics": [
+                  "afl",
+                  "c",
+                  "concolic-execution",
+                  "constraints",
+                  "formatter",
+                  "fuzzer",
+                  "interpreter",
+                  "nlnet",
+                  "ocaml",
+                  "optimizer",
+                  "owi",
+                  "parallel",
+                  "rust",
+                  "smt",
+                  "solver",
+                  "symbolic-execution",
+                  "wasm",
+                  "wasm2wat",
+                  "wat2wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -35,12 +61,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Soot - A Java optimization framework",
+                "homepage": null,
                 "id": 4726093,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-17T13:59:04Z",
+                "open_issues": 349,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3098
+                "stars": 3098,
+                "topics": [
+                  "analysis-framework",
+                  "bytecode",
+                  "java",
+                  "java-optimization-framework",
+                  "jimple",
+                  "optimization",
+                  "soot",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -51,12 +91,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Soot - A Java optimization framework",
+                "homepage": null,
                 "id": 4726093,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-17T13:59:04Z",
+                "open_issues": 349,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3098
+                "stars": 3098,
+                "topics": [
+                  "analysis-framework",
+                  "bytecode",
+                  "java",
+                  "java-optimization-framework",
+                  "jimple",
+                  "optimization",
+                  "soot",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -67,12 +121,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Soot - A Java optimization framework",
+                "homepage": null,
                 "id": 4726093,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-17T13:59:04Z",
+                "open_issues": 349,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3098
+                "stars": 3098,
+                "topics": [
+                  "analysis-framework",
+                  "bytecode",
+                  "java",
+                  "java-optimization-framework",
+                  "jimple",
+                  "optimization",
+                  "soot",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -83,12 +151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symbolic PathFinder",
+                "homepage": "https://github.com/SymbolicPathFinder/jpf-symbc",
                 "id": 123362269,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-02-26T08:19:49Z",
+                "open_issues": 60,
                 "owner": "SymbolicPathFinder",
                 "repo": "jpf-symbc",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -99,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic symbolic analysis tool for Java",
+                "homepage": null,
                 "id": 44338901,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-02T16:20:51Z",
+                "open_issues": 18,
                 "owner": "psycopaths",
                 "repo": "jdart",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -115,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a concolic testing engine for Java",
+                "homepage": null,
                 "id": 4715311,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-02-20T02:51:10Z",
+                "open_issues": 5,
                 "owner": "ksen007",
                 "repo": "janala2",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -131,12 +214,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SWAT, a dynamic symbolic execution engine for Java Applications that uses ASM for on-the-fly byte code instrumentation.",
+                "homepage": "https://swat-project.github.io/docs/",
                 "id": 722783463,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-22T10:11:19Z",
+                "open_issues": 11,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "asm",
+                  "dynamic-symbolic-execution",
+                  "instrumentation",
+                  "java",
+                  "symbolic-execution"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -154,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SymCC: efficient compiler-based symbolic execution",
+                "homepage": "http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html",
                 "id": 272949333,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-16T09:08:20Z",
+                "open_issues": 58,
                 "owner": "eurecom-s3",
                 "repo": "symcc",
-                "stars": 875
+                "stars": 877,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -170,12 +269,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seamless bug-finding for C, C++, Go, Rust, Wasm and Zig",
+                "homepage": "https://ocamlpro.github.io/owi/",
                 "id": 573640699,
                 "language": "OCaml",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T00:29:55Z",
+                "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322
+                "stars": 323,
+                "topics": [
+                  "afl",
+                  "c",
+                  "concolic-execution",
+                  "constraints",
+                  "formatter",
+                  "fuzzer",
+                  "interpreter",
+                  "nlnet",
+                  "ocaml",
+                  "optimizer",
+                  "owi",
+                  "parallel",
+                  "rust",
+                  "smt",
+                  "solver",
+                  "symbolic-execution",
+                  "wasm",
+                  "wasm2wat",
+                  "wat2wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -186,12 +311,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance, parallel, compilation-based symbolic execution engine",
+                "homepage": null,
                 "id": 524244628,
                 "language": "LLVM",
+                "license": null,
                 "last_commit": "2026-08-26T00:31:35Z",
+                "open_issues": 8,
                 "owner": "Generative-Program-Analysis",
                 "repo": "GenSym",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "compiler",
+                  "metaprogramming",
+                  "multi-stage-programming",
+                  "scala",
+                  "symbolic-execution",
+                  "symbolic-execution-engine"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -209,12 +346,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symbolic execution engine for .NET Core",
+                "homepage": null,
                 "id": 63795846,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-06T12:15:05Z",
+                "open_issues": 43,
                 "owner": "VSharp-team",
                 "repo": "VSharp",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "symbolic-execution",
+                  "test-generation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -232,12 +378,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seamless bug-finding for C, C++, Go, Rust, Wasm and Zig",
+                "homepage": "https://ocamlpro.github.io/owi/",
                 "id": 573640699,
                 "language": "OCaml",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T00:29:55Z",
+                "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322
+                "stars": 323,
+                "topics": [
+                  "afl",
+                  "c",
+                  "concolic-execution",
+                  "constraints",
+                  "formatter",
+                  "fuzzer",
+                  "interpreter",
+                  "nlnet",
+                  "ocaml",
+                  "optimizer",
+                  "owi",
+                  "parallel",
+                  "rust",
+                  "smt",
+                  "solver",
+                  "symbolic-execution",
+                  "wasm",
+                  "wasm2wat",
+                  "wat2wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -248,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CREST is a concolic test generation tool for C.",
+                "homepage": "http://jburnim.github.io/crest/",
                 "id": 16466717,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-07-05T23:41:34Z",
+                "open_issues": 11,
                 "owner": "jburnim",
                 "repo": "crest",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -271,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic analysis framework for JavaScript",
+                "homepage": null,
                 "id": 27174518,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-10T18:37:50Z",
+                "open_issues": 72,
                 "owner": "Samsung",
                 "repo": "jalangi2",
-                "stars": 495
+                "stars": 495,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -294,12 +476,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An analysis tool for Python that blurs the line between testing and type systems.",
+                "homepage": null,
                 "id": 101762821,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T15:15:09Z",
+                "open_issues": 76,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1318
+                "stars": 1319,
+                "topics": [
+                  "concolic-execution",
+                  "contracts",
+                  "dynamic-analysis",
+                  "fuzzing",
+                  "hacktoberfest",
+                  "python",
+                  "static-analysis",
+                  "symbolic-execution",
+                  "testing",
+                  "testing-framework",
+                  "type-systems",
+                  "z3"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -310,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Exploration with Z3",
+                "homepage": null,
                 "id": 20069933,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-12T21:31:56Z",
+                "open_issues": 9,
                 "owner": "thomasjball",
                 "repo": "PyExZ3",
-                "stars": 344
+                "stars": 344,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -333,12 +538,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering framework in Python",
+                "homepage": "https://miasm.re/",
                 "id": 25875083,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-24T08:57:49Z",
+                "open_issues": 176,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3944
+                "stars": 3944,
+                "topics": [
+                  "assembler",
+                  "disassembler",
+                  "emulator",
+                  "hacktoberfest",
+                  "intermediate-representation",
+                  "python",
+                  "reverse-engineering",
+                  "symbolic-execution"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -349,12 +568,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Symbolic execution tool",
+                "homepage": "https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/",
                 "id": 81612762,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-24T16:28:22Z",
+                "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858
+                "stars": 3858,
+                "topics": [
+                  "binary-analysis",
+                  "blockchain",
+                  "emulation",
+                  "ethereum",
+                  "program-analysis",
+                  "python",
+                  "security",
+                  "smt",
+                  "symbolic-execution",
+                  "testing",
+                  "z3"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -365,12 +601,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Binary Analysis Platform",
+                "homepage": null,
                 "id": 25968851,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-05-07T15:28:41Z",
+                "open_issues": 43,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2254
+                "stars": 2254,
+                "topics": [
+                  "arm",
+                  "bap",
+                  "binary-analysis",
+                  "disassembler",
+                  "dynamic-analysis",
+                  "emulator",
+                  "instruction-semantics",
+                  "lifter",
+                  "mips",
+                  "ocaml",
+                  "powerpc",
+                  "program-analysis",
+                  "program-verification",
+                  "reverse-engineering",
+                  "security",
+                  "static-analysis",
+                  "symbolic-execution",
+                  "taint-analysis",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -381,12 +642,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+                "homepage": null,
                 "id": 92752493,
                 "language": "OCaml",
+                "license": null,
                 "last_commit": "2025-02-25T16:54:39Z",
+                "open_issues": 18,
                 "owner": "airbus-seclab",
                 "repo": "bincat",
-                "stars": 1872
+                "stars": 1872,
+                "topics": [
+                  "disassembly",
+                  "ida-plugin",
+                  "reverse-engineering",
+                  "taint-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -397,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source symbolic execution framework: https://maat.re",
+                "homepage": null,
                 "id": 418854583,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-22T18:23:45Z",
+                "open_issues": 32,
                 "owner": "trailofbits",
                 "repo": "maat",
-                "stars": 651
+                "stars": 651,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -413,12 +689,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seamless bug-finding for C, C++, Go, Rust, Wasm and Zig",
+                "homepage": "https://ocamlpro.github.io/owi/",
                 "id": 573640699,
                 "language": "OCaml",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T00:29:55Z",
+                "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322
+                "stars": 323,
+                "topics": [
+                  "afl",
+                  "c",
+                  "concolic-execution",
+                  "constraints",
+                  "formatter",
+                  "fuzzer",
+                  "interpreter",
+                  "nlnet",
+                  "ocaml",
+                  "optimizer",
+                  "owi",
+                  "parallel",
+                  "rust",
+                  "smt",
+                  "solver",
+                  "symbolic-execution",
+                  "wasm",
+                  "wasm2wat",
+                  "wat2wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -429,12 +731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An amd64 symbolic emulator",
+                "homepage": null,
                 "id": 13131159,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-08-28T02:20:57Z",
+                "open_issues": 4,
                 "owner": "feliam",
                 "repo": "pysymemu",
-                "stars": 313
+                "stars": 313,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -445,12 +752,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Path based Dynamic Analysis",
+                "homepage": null,
                 "id": 8089442,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2017-03-25T01:36:40Z",
+                "open_issues": 0,
                 "owner": "codelion",
                 "repo": "pathgrind",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "c",
+                  "dynamic-analysis",
+                  "testcase"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -461,12 +777,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A concolic testing engine for RISC-V embedded software with support for SystemC peripherals",
+                "homepage": null,
                 "id": 372835378,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-04T07:53:59Z",
+                "open_issues": 0,
                 "owner": "agra-uni-bremen",
                 "repo": "symex-vp",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "concolic-execution",
+                  "concolic-testing",
+                  "klee",
+                  "risc-v",
+                  "riscv",
+                  "riscv32",
+                  "symbolic-execution",
+                  "systemc"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -484,12 +814,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OSS-Sydr-Fuzz - OSS-Fuzz fork for hybrid fuzzing (fuzzer+DSE) open source software.",
+                "homepage": "https://sydr-fuzz.github.io",
                 "id": 415895268,
                 "language": "C",
-                "last_commit": "2026-08-07T13:07:34Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:19:38Z",
+                "open_issues": 4,
                 "owner": "ispras",
                 "repo": "oss-sydr-fuzz",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "concolic",
+                  "concolic-execution",
+                  "dse",
+                  "dynamic-symbolic-execution",
+                  "fuzz-testing",
+                  "fuzzing",
+                  "hybrid-fuzzing",
+                  "libfuzzer",
+                  "oss-fuzz",
+                  "security",
+                  "stability",
+                  "sydr",
+                  "sydr-fuzz",
+                  "symbolic",
+                  "symbolic-execution",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             },
@@ -500,12 +852,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symbolic Execution Engine for Boogie",
+                "homepage": null,
                 "id": 28963323,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-12-27T20:19:13Z",
+                "open_issues": 20,
                 "owner": "boogie-org",
                 "repo": "symbooglix",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "boogie",
+                  "symbolic-execution",
+                  "symbolic-execution-engine"
+                ]
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
             }
@@ -519,15 +880,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:17:52.645Z",
+    "last_updated": "2026-08-29T04:30:51.977Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
+      "homepage": null,
       "id": 97649913,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-14T05:30:15Z",
+      "open_issues": 4,
       "owner": "ksluckow",
       "repo": "awesome-symbolic-execution",
-      "stars": 1497
+      "stars": 1497,
+      "topics": [
+        "awesome-list",
+        "dynamic-analysis",
+        "dynamic-symbolic-execution",
+        "symbolic-execution"
+      ]
     },
     "original_repository_sha": "066a7e944d634c9d31ef76e0d61080450970ddf6",
     "enhanced_repository": "enhansome/enhansome-symbolic-execution",
