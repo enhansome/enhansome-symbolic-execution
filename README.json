@@ -257,7 +257,7 @@
                 "open_issues": 58,
                 "owner": "eurecom-s3",
                 "repo": "symcc",
-                "stars": 877,
+                "stars": 878,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:28:49.525Z",
+    "last_updated": "2026-08-30T05:57:29.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
