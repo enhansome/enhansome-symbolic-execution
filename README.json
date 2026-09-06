@@ -544,7 +544,7 @@
                 "open_issues": 177,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3949,
+                "stars": 3951,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -816,7 +816,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T14:55:20Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ispras",
                 "repo": "oss-sydr-fuzz",
                 "stars": 153,
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:59:01.695Z",
+    "last_updated": "2026-09-06T05:10:37.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
