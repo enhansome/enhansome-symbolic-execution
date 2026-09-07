@@ -544,7 +544,7 @@
                 "open_issues": 177,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3951,
+                "stars": 3953,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -574,7 +574,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3855,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T05:10:37.396Z",
+    "last_updated": "2026-09-07T05:18:13.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
