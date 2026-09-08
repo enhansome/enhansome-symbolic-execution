@@ -17,7 +17,7 @@
                 "id": 573640699,
                 "language": "OCaml",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T12:43:32Z",
+                "last_commit": "2026-09-07T16:27:00Z",
                 "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
@@ -69,7 +69,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3099,
+                "stars": 3097,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -99,7 +99,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3099,
+                "stars": 3097,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -129,7 +129,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3099,
+                "stars": 3097,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -159,7 +159,7 @@
                 "open_issues": 60,
                 "owner": "SymbolicPathFinder",
                 "repo": "jpf-symbc",
-                "stars": 171,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -218,7 +218,7 @@
                 "id": 722783463,
                 "language": "Java",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T09:41:55Z",
+                "last_commit": "2026-09-07T11:00:21Z",
                 "open_issues": 11,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
@@ -273,7 +273,7 @@
                 "id": 573640699,
                 "language": "OCaml",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T12:43:32Z",
+                "last_commit": "2026-09-07T16:27:00Z",
                 "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
@@ -381,7 +381,7 @@
                 "id": 573640699,
                 "language": "OCaml",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T12:43:32Z",
+                "last_commit": "2026-09-07T16:27:00Z",
                 "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
@@ -454,7 +454,7 @@
                 "open_issues": 72,
                 "owner": "Samsung",
                 "repo": "jalangi2",
-                "stars": 495,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -482,7 +482,7 @@
                 "open_issues": 78,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -544,7 +544,7 @@
                 "open_issues": 177,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3953,
+                "stars": 3954,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -691,7 +691,7 @@
                 "id": 573640699,
                 "language": "OCaml",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T12:43:32Z",
+                "last_commit": "2026-09-07T16:27:00Z",
                 "open_issues": 152,
                 "owner": "OCamlPro",
                 "repo": "owi",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T05:18:13.030Z",
+    "last_updated": "2026-09-08T05:22:52.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
