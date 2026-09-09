@@ -65,7 +65,7 @@
                 "id": 4726093,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-04T13:00:09Z",
+                "last_commit": "2026-09-08T14:29:58Z",
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
@@ -95,7 +95,7 @@
                 "id": 4726093,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-04T13:00:09Z",
+                "last_commit": "2026-09-08T14:29:58Z",
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
@@ -125,7 +125,7 @@
                 "id": 4726093,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-04T13:00:09Z",
+                "last_commit": "2026-09-08T14:29:58Z",
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
@@ -218,7 +218,7 @@
                 "id": 722783463,
                 "language": "Java",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-07T11:00:21Z",
+                "last_commit": "2026-09-08T10:27:43Z",
                 "open_issues": 11,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
@@ -315,7 +315,7 @@
                 "language": "LLVM",
                 "license": null,
                 "last_commit": "2026-08-26T00:31:35Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Generative-Program-Analysis",
                 "repo": "GenSym",
                 "stars": 150,
@@ -516,7 +516,7 @@
                 "open_issues": 9,
                 "owner": "thomasjball",
                 "repo": "PyExZ3",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -544,7 +544,7 @@
                 "open_issues": 177,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3954,
+                "stars": 3958,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -607,7 +607,7 @@
                 "open_issues": 43,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2254,
+                "stars": 2255,
                 "topics": [
                   "arm",
                   "bap",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T05:22:52.186Z",
+    "last_updated": "2026-09-09T05:24:04.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
