@@ -65,11 +65,11 @@
                 "id": 4726093,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-09T11:03:01Z",
+                "last_commit": "2026-09-11T09:17:14Z",
                 "open_issues": 347,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3097,
+                "stars": 3098,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -95,11 +95,11 @@
                 "id": 4726093,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-09T11:03:01Z",
+                "last_commit": "2026-09-11T09:17:14Z",
                 "open_issues": 347,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3097,
+                "stars": 3098,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -125,11 +125,11 @@
                 "id": 4726093,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-09T11:03:01Z",
+                "last_commit": "2026-09-11T09:17:14Z",
                 "open_issues": 347,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3097,
+                "stars": 3098,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -482,7 +482,7 @@
                 "open_issues": 78,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -544,7 +544,7 @@
                 "open_issues": 177,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3959,
+                "stars": 3960,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:20:45.050Z",
+    "last_updated": "2026-09-12T05:11:22.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
