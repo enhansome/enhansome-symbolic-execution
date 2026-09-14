@@ -482,7 +482,7 @@
                 "open_issues": 78,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1324,
+                "stars": 1326,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -607,7 +607,7 @@
                 "open_issues": 43,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2255,
+                "stars": 2256,
                 "topics": [
                   "arm",
                   "bap",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:26:11.244Z",
+    "last_updated": "2026-09-14T05:30:35.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
