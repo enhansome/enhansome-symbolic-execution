@@ -482,7 +482,7 @@
                 "open_issues": 76,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1328,
+                "stars": 1330,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -541,7 +541,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-19T19:16:55Z",
-                "open_issues": 164,
+                "open_issues": 161,
                 "owner": "cea-sec",
                 "repo": "miasm",
                 "stars": 3965,
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:29:14.644Z",
+    "last_updated": "2026-09-21T05:34:24.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
