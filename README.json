@@ -21,7 +21,7 @@
                 "open_issues": 156,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -69,7 +69,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3099,
+                "stars": 3100,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -99,7 +99,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3099,
+                "stars": 3100,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -129,7 +129,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3099,
+                "stars": 3100,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -277,7 +277,7 @@
                 "open_issues": 156,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -385,7 +385,7 @@
                 "open_issues": 156,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -482,7 +482,7 @@
                 "open_issues": 76,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -544,7 +544,7 @@
                 "open_issues": 161,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3965,
+                "stars": 3967,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -574,7 +574,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3856,
+                "stars": 3857,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -607,7 +607,7 @@
                 "open_issues": 43,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2257,
+                "stars": 2259,
                 "topics": [
                   "arm",
                   "bap",
@@ -695,7 +695,7 @@
                 "open_issues": 156,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T05:30:29.269Z",
+    "last_updated": "2026-09-23T05:17:33.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
