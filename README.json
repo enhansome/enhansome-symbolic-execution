@@ -314,7 +314,7 @@
                 "id": 524244628,
                 "language": "LLVM",
                 "license": null,
-                "last_commit": "2026-09-22T03:13:58Z",
+                "last_commit": "2026-09-23T15:57:59Z",
                 "open_issues": 10,
                 "owner": "Generative-Program-Analysis",
                 "repo": "GenSym",
@@ -454,7 +454,7 @@
                 "open_issues": 72,
                 "owner": "Samsung",
                 "repo": "jalangi2",
-                "stars": 498,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -478,8 +478,8 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T15:10:36Z",
-                "open_issues": 76,
+                "last_commit": "2026-09-24T04:24:24Z",
+                "open_issues": 78,
                 "owner": "pschanely",
                 "repo": "CrossHair",
                 "stars": 1331,
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:17:33.155Z",
+    "last_updated": "2026-09-24T05:32:39.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
