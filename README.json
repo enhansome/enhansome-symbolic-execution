@@ -648,7 +648,7 @@
                 "open_issues": 18,
                 "owner": "airbus-seclab",
                 "repo": "bincat",
-                "stars": 1876,
+                "stars": 1877,
                 "topics": [
                   "disassembly",
                   "ida-plugin",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:36:51.476Z",
+    "last_updated": "2026-10-08T06:42:42.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
