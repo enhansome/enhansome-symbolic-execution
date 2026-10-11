@@ -69,7 +69,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3102,
+                "stars": 3103,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -99,7 +99,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3102,
+                "stars": 3103,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -129,7 +129,7 @@
                 "open_issues": 346,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3102,
+                "stars": 3103,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -426,7 +426,7 @@
                 "open_issues": 11,
                 "owner": "jburnim",
                 "repo": "crest",
-                "stars": 161,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -544,7 +544,7 @@
                 "open_issues": 161,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3985,
+                "stars": 3987,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -574,7 +574,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3854,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:27:58.703Z",
+    "last_updated": "2026-10-11T06:33:16.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
