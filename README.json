@@ -218,8 +218,8 @@
                 "id": 722783463,
                 "language": "Java",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T10:23:33Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-15T13:42:28Z",
+                "open_issues": 31,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
                 "stars": 47,
@@ -256,7 +256,7 @@
                 "open_issues": 59,
                 "owner": "eurecom-s3",
                 "repo": "symcc",
-                "stars": 885,
+                "stars": 886,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -482,7 +482,7 @@
                 "open_issues": 81,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1337,
+                "stars": 1338,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -544,7 +544,7 @@
                 "open_issues": 161,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3991,
+                "stars": 3992,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -604,7 +604,7 @@
                 "language": "OCaml",
                 "license": "MIT",
                 "last_commit": "2026-05-07T15:28:41Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
                 "stars": 2262,
@@ -648,7 +648,7 @@
                 "open_issues": 18,
                 "owner": "airbus-seclab",
                 "repo": "bincat",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": [
                   "disassembly",
                   "ida-plugin",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:20:19.372Z",
+    "last_updated": "2026-10-16T05:10:20.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
