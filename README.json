@@ -66,7 +66,7 @@
                 "language": "Java",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-12T18:17:55Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "soot-oss",
                 "repo": "soot",
                 "stars": 3102,
@@ -96,7 +96,7 @@
                 "language": "Java",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-12T18:17:55Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "soot-oss",
                 "repo": "soot",
                 "stars": 3102,
@@ -126,7 +126,7 @@
                 "language": "Java",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-12T18:17:55Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "soot-oss",
                 "repo": "soot",
                 "stars": 3102,
@@ -454,7 +454,7 @@
                 "open_issues": 72,
                 "owner": "Samsung",
                 "repo": "jalangi2",
-                "stars": 501,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -544,7 +544,7 @@
                 "open_issues": 161,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3994,
+                "stars": 3995,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -574,7 +574,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3857,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -648,7 +648,7 @@
                 "open_issues": 18,
                 "owner": "airbus-seclab",
                 "repo": "bincat",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": [
                   "disassembly",
                   "ida-plugin",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:24:07.488Z",
+    "last_updated": "2026-10-22T05:30:19.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
