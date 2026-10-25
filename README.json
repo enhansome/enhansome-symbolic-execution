@@ -21,7 +21,7 @@
                 "open_issues": 159,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -218,8 +218,8 @@
                 "id": 722783463,
                 "language": "Java",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-21T00:53:01Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-24T19:23:22Z",
+                "open_issues": 34,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
                 "stars": 47,
@@ -277,7 +277,7 @@
                 "open_issues": 159,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -353,7 +353,7 @@
                 "open_issues": 43,
                 "owner": "VSharp-team",
                 "repo": "VSharp",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "symbolic-execution",
                   "test-generation",
@@ -385,7 +385,7 @@
                 "open_issues": 159,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -544,7 +544,7 @@
                 "open_issues": 163,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 3996,
+                "stars": 3997,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -695,7 +695,7 @@
                 "open_issues": 159,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:08:01.706Z",
+    "last_updated": "2026-10-25T05:23:56.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
