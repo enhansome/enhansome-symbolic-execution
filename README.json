@@ -222,7 +222,7 @@
                 "open_issues": 35,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "asm",
                   "dynamic-symbolic-execution",
@@ -478,7 +478,7 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T23:43:10Z",
+                "last_commit": "2026-10-31T01:22:39Z",
                 "open_issues": 81,
                 "owner": "pschanely",
                 "repo": "CrossHair",
@@ -540,7 +540,7 @@
                 "id": 25875083,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-29T21:59:11Z",
+                "last_commit": "2026-10-30T17:06:07Z",
                 "open_issues": 178,
                 "owner": "cea-sec",
                 "repo": "miasm",
@@ -574,7 +574,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3855,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -815,7 +815,7 @@
                 "id": 415895268,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T15:20:18Z",
+                "last_commit": "2026-10-30T11:21:37Z",
                 "open_issues": 4,
                 "owner": "ispras",
                 "repo": "oss-sydr-fuzz",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:32:42.779Z",
+    "last_updated": "2026-10-31T06:22:20.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
@@ -888,7 +888,7 @@
       "open_issues": 4,
       "owner": "ksluckow",
       "repo": "awesome-symbolic-execution",
-      "stars": 1503,
+      "stars": 1504,
       "topics": [
         "awesome-list",
         "dynamic-analysis",
