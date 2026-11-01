@@ -478,7 +478,7 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T01:22:39Z",
+                "last_commit": "2026-10-31T23:06:53Z",
                 "open_issues": 81,
                 "owner": "pschanely",
                 "repo": "CrossHair",
@@ -540,11 +540,11 @@
                 "id": 25875083,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-30T17:06:07Z",
-                "open_issues": 178,
+                "last_commit": "2026-10-31T16:57:31Z",
+                "open_issues": 177,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 4003,
+                "stars": 4005,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -607,7 +607,7 @@
                 "open_issues": 42,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2265,
+                "stars": 2264,
                 "topics": [
                   "arm",
                   "bap",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:22:20.963Z",
+    "last_updated": "2026-11-01T06:55:00.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
