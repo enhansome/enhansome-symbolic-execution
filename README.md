@@ -38,25 +38,25 @@
 
 ### Rust
 
-* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-02 - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run Rust code.
+* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-06 - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run Rust code.
 
 ### Java
 
-* [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 349 | 🌐 Java | 📅 2026-11-05 for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
-* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 349 | 🌐 Java | 📅 2026-11-05 for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3) ⭐ 12,889 | 🐛 53 | 🌐 C++ | 📅 2026-11-06.
-* [jCUTE](http://osl.cs.illinois.edu/software/jcute/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 349 | 🌐 Java | 📅 2026-11-05 for instrumentation. Supports [lp\_solve](http://lpsolve.sourceforge.net/).
+* [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
+* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3) ⭐ 12,894 | 🐛 53 | 🌐 C++ | 📅 2026-11-07.
+* [jCUTE](http://osl.cs.illinois.edu/software/jcute/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Supports [lp\_solve](http://lpsolve.sourceforge.net/).
 * [Symbolic PathFinder (SPF)](https://github.com/SymbolicPathFinder/jpf-symbc) ⭐ 170 | 🐛 60 | 🌐 Java | 📅 2026-02-26 - Symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers, lazy initialization, etc.
 * [JDart](https://github.com/psycopaths/jdart) ⭐ 129 | 🐛 18 | 🌐 Java | 📅 2019-06-02 - Dynamic symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers using [JConstraints](https://github.com/psycopaths/jconstraints) ⭐ 22 | 🐛 1 | 🌐 Java | 📅 2023-04-16.
 * [CATG](https://github.com/ksen007/janala2) ⭐ 106 | 🐛 5 | 🌐 Java | 📅 2018-02-20 - Concolic execution tool that uses [ASM](http://asm.ow2.org/) for instrumentation. Uses CVC4.
-* [SWAT](https://github.com/SWAT-project/SWAT) ⭐ 48 | 🐛 31 | 🌐 Java | 📅 2026-11-05 - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) ⭐ 245 | 🐛 162 | 🌐 SMT | 📅 2026-11-06 for formula generation and currently [Z3](https://github.com/Z3Prover/z3) ⭐ 12,889 | 🐛 53 | 🌐 C++ | 📅 2026-11-06 as a solver.
+* [SWAT](https://github.com/SWAT-project/SWAT) ⭐ 48 | 🐛 31 | 🌐 Java | 📅 2026-11-05 - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) ⭐ 245 | 🐛 162 | 🌐 SMT | 📅 2026-11-06 for formula generation and currently [Z3](https://github.com/Z3Prover/z3) ⭐ 12,894 | 🐛 53 | 🌐 C++ | 📅 2026-11-07 as a solver.
 * [JFuzz](http://people.csail.mit.edu/akiezun/jfuzz/) - Concolic execution tool built on [Java PathFinder](https://github.com/javapathfinder).
 * [JBSE](http://pietrobraione.github.io/jbse/) - Symbolic execution tool that uses a custom JVM. Supports CVC3, CVC4, Sicstus, and Z3.
 * [Key](https://www.key-project.org/) - Theorem Prover that uses specifications written in Java Modeling Language (JML).
 
 ### LLVM
 
-* [SymCC](https://github.com/eurecom-s3/symcc) ⭐ 888 | 🐛 59 | 🌐 C++ | 📅 2026-10-28 - A compiler wrapper which embeds symbolic execution into the program during compilation, and an associated run-time support library.
-* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-02 - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run LLVM code.
+* [SymCC](https://github.com/eurecom-s3/symcc) ⭐ 889 | 🐛 59 | 🌐 C++ | 📅 2026-10-28 - A compiler wrapper which embeds symbolic execution into the program during compilation, and an associated run-time support library.
+* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-06 - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run LLVM code.
 * [GenSym](https://github.com/Generative-Program-Analysis/GenSym) ⭐ 151 | 🐛 9 | 🌐 LLVM | 📅 2026-10-12 - A compiler for parallel fork-based symbolic execution.
 * [KLEE](http://klee.github.io/) - Symbolic execution engine built on LLVM.
 * [Cloud9](https://dslab.epfl.ch/research/cloud9) - Parallel symbolic execution engine built on KLEE.
@@ -69,7 +69,7 @@
 
 ### C
 
-* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-02 - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run C code.
+* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-06 - Parallel (dynamic) symbolic execution engine built on WebAssembly (Wasm) that can run C code.
 * [CREST](https://github.com/jburnim/crest) ⭐ 160 | 🐛 11 | 🌐 C | 📅 2020-07-05 - is an open-source tool for concolic testing of C programs.
 * [Otter](https://bitbucket.org/khooyp/otter/) - is a pure, source-level symbolic executor for C that can be used to test programs.
 * [CIVL](http://vsl.cis.udel.edu/civl/) - A framework that includes the CIVL-C programming language, a model checker and a symbolic execution tool.
@@ -81,7 +81,7 @@
 
 ### Python
 
-* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,343 | 🐛 80 | 🌐 Python | 📅 2026-11-06 - Symbolic execution tool for verifying properties of Python functions.
+* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,344 | 🐛 76 | 🌐 Python | 📅 2026-11-06 - Symbolic execution tool for verifying properties of Python functions.
 * [PyExZ3](https://github.com/thomasjball/PyExZ3) ⭐ 345 | 🐛 9 | 🌐 HTML | 📅 2025-12-12 - Symbolic execution of Python functions. A rewrite of the [NICE](https://code.google.com/archive/p/nice-of) project's symbolic execution tool.
 * [APEX](https://github.com/allexdav2/apex) - Concolic execution engine for Python with coverage-guided test generation. Built in Rust.
 
@@ -95,13 +95,13 @@
 
 ### Binaries
 
-* [miasm](https://github.com/cea-sec/miasm) ⭐ 4,012 | 🐛 174 | 🌐 Python | 📅 2026-11-03 - Reverse engineering framework. Includes symbolic execution.
+* [miasm](https://github.com/cea-sec/miasm) ⭐ 4,015 | 🐛 174 | 🌐 Python | 📅 2026-11-03 - Reverse engineering framework. Includes symbolic execution.
 * [manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool for binaries (x86, x86\_64 and ARMV7) and Ethereum smart contract bytecode.
-* [BAP](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,264 | 🐛 42 | 🌐 OCaml | 📅 2026-05-07 - Binary Analysis Platform provides a framework for writing program analysis tools.
-* [BinCAT](https://github.com/airbus-seclab/bincat) ⭐ 1,882 | 🐛 18 | 🌐 OCaml | 📅 2025-02-25 - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
+* [BAP](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,263 | 🐛 42 | 🌐 OCaml | 📅 2026-05-07 - Binary Analysis Platform provides a framework for writing program analysis tools.
+* [BinCAT](https://github.com/airbus-seclab/bincat) ⭐ 1,883 | 🐛 18 | 🌐 OCaml | 📅 2025-02-25 - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [MAAT](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 32 | 🌐 C++ | 📅 2026-05-22 - Low-level symbolic execution tool, uses Ghidra's p-code.
-* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-02 - Parallel symbolic execution engine built on WebAssembly (Wasm).
-* [pysymemu](https://github.com/feliam/pysymemu/) ⭐ 313 | 🐛 4 | 🌐 Python | 📅 2021-08-28 - Supports x86/x64 binaries.
+* [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-06 - Parallel symbolic execution engine built on WebAssembly (Wasm).
+* [pysymemu](https://github.com/feliam/pysymemu/) ⭐ 312 | 🐛 4 | 🌐 Python | 📅 2021-08-28 - Supports x86/x64 binaries.
 * [PathGrind](https://github.com/codelion/pathgrind) ⭐ 118 | 🐛 0 | 🌐 C | 📅 2017-03-25 - Path-based dynamic analysis for 32-bit programs.
 * [SymEx-VP](https://github.com/agra-uni-bremen/symex-vp) ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2023-10-04 - Symbolic execution for RISC-V embedded firmware with accurate SystemC peripheral models.
 * [Mayhem](http://dx.doi.org/10.1109/SP.2012.31).
@@ -116,9 +116,9 @@
 
 ### Misc
 
-* [OSS-Sydr-Fuzz](https://github.com/ispras/oss-sydr-fuzz) ⭐ 155 | 🐛 4 | 🌐 C | 📅 2026-10-30 - Hybrid Fuzzing for Open Source Software
+* [OSS-Sydr-Fuzz](https://github.com/ispras/oss-sydr-fuzz) ⭐ 155 | 🐛 4 | 🌐 C | 📅 2026-11-06 - Hybrid Fuzzing for Open Source Software
 * [Symbooglix](https://github.com/symbooglix/symbooglix) ⭐ 29 | 🐛 20 | 🌐 C# | 📅 2021-12-27 - Symbolic execution tool for Boogie programs.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
