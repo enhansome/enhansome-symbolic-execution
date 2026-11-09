@@ -42,13 +42,13 @@
 
 ### Java
 
-* [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
-* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3) ⭐ 12,898 | 🐛 53 | 🌐 C++ | 📅 2026-11-08.
-* [jCUTE](http://osl.cs.illinois.edu/software/jcute/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,104 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Supports [lp\_solve](http://lpsolve.sourceforge.net/).
+* [LimeTB](http://www.tcs.hut.fi/Software/lime/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,105 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Supports [Yices](http://yices.csl.sri.com/) and [Boolector](http://fmv.jku.at/boolector/). Concolic execution can be distributed.
+* [Acteve](https://code.google.com/archive/p/acteve/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,105 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Originally for Android analysis. Supports [Z3](https://github.com/Z3Prover/z3) ⭐ 12,904 | 🐛 54 | 🌐 C++ | 📅 2026-11-09.
+* [jCUTE](http://osl.cs.illinois.edu/software/jcute/) - Concolic execution tool that uses [Soot](https://github.com/soot-oss/soot) ⭐ 3,105 | 🐛 347 | 🌐 Java | 📅 2026-11-06 for instrumentation. Supports [lp\_solve](http://lpsolve.sourceforge.net/).
 * [Symbolic PathFinder (SPF)](https://github.com/SymbolicPathFinder/jpf-symbc) ⭐ 170 | 🐛 60 | 🌐 Java | 📅 2026-02-26 - Symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers, lazy initialization, etc.
 * [JDart](https://github.com/psycopaths/jdart) ⭐ 129 | 🐛 18 | 🌐 Java | 📅 2019-06-02 - Dynamic symbolic execution tool built on [Java PathFinder](https://github.com/javapathfinder). Supports multiple constraint solvers using [JConstraints](https://github.com/psycopaths/jconstraints) ⭐ 22 | 🐛 1 | 🌐 Java | 📅 2023-04-16.
 * [CATG](https://github.com/ksen007/janala2) ⭐ 106 | 🐛 5 | 🌐 Java | 📅 2018-02-20 - Concolic execution tool that uses [ASM](http://asm.ow2.org/) for instrumentation. Uses CVC4.
-* [SWAT](https://github.com/SWAT-project/SWAT) ⭐ 48 | 🐛 31 | 🌐 Java | 📅 2026-11-05 - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) ⭐ 245 | 🐛 163 | 🌐 SMT | 📅 2026-11-08 for formula generation and currently [Z3](https://github.com/Z3Prover/z3) ⭐ 12,898 | 🐛 53 | 🌐 C++ | 📅 2026-11-08 as a solver.
+* [SWAT](https://github.com/SWAT-project/SWAT) ⭐ 48 | 🐛 31 | 🌐 Java | 📅 2026-11-05 - Loosely coupled dynamic symbolic execution using [ASM](https://asm.ow2.io) for instrumentation, [JavaSMT](https://github.com/sosy-lab/java-smt) ⭐ 245 | 🐛 163 | 🌐 SMT | 📅 2026-11-08 for formula generation and currently [Z3](https://github.com/Z3Prover/z3) ⭐ 12,904 | 🐛 54 | 🌐 C++ | 📅 2026-11-09 as a solver.
 * [JFuzz](http://people.csail.mit.edu/akiezun/jfuzz/) - Concolic execution tool built on [Java PathFinder](https://github.com/javapathfinder).
 * [JBSE](http://pietrobraione.github.io/jbse/) - Symbolic execution tool that uses a custom JVM. Supports CVC3, CVC4, Sicstus, and Z3.
 * [Key](https://www.key-project.org/) - Theorem Prover that uses specifications written in Java Modeling Language (JML).
@@ -81,7 +81,7 @@
 
 ### Python
 
-* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,344 | 🐛 72 | 🌐 Python | 📅 2026-11-07 - Symbolic execution tool for verifying properties of Python functions.
+* [CrossHair](https://github.com/pschanely/CrossHair) ⭐ 1,345 | 🐛 70 | 🌐 Python | 📅 2026-11-08 - Symbolic execution tool for verifying properties of Python functions.
 * [PyExZ3](https://github.com/thomasjball/PyExZ3) ⭐ 345 | 🐛 9 | 🌐 HTML | 📅 2025-12-12 - Symbolic execution of Python functions. A rewrite of the [NICE](https://code.google.com/archive/p/nice-of) project's symbolic execution tool.
 * [APEX](https://github.com/allexdav2/apex) - Concolic execution engine for Python with coverage-guided test generation. Built in Rust.
 
@@ -101,7 +101,7 @@
 * [BinCAT](https://github.com/airbus-seclab/bincat) ⭐ 1,883 | 🐛 18 | 🌐 OCaml | 📅 2025-02-25 - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [MAAT](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 32 | 🌐 C++ | 📅 2026-05-22 - Low-level symbolic execution tool, uses Ghidra's p-code.
 * [Owi](https://github.com/OCamlPro/owi) ⭐ 330 | 🐛 161 | 🌐 OCaml | 📅 2026-11-08 - Parallel symbolic execution engine built on WebAssembly (Wasm).
-* [pysymemu](https://github.com/feliam/pysymemu/) ⭐ 312 | 🐛 4 | 🌐 Python | 📅 2021-08-28 - Supports x86/x64 binaries.
+* [pysymemu](https://github.com/feliam/pysymemu/) ⭐ 313 | 🐛 4 | 🌐 Python | 📅 2021-08-28 - Supports x86/x64 binaries.
 * [PathGrind](https://github.com/codelion/pathgrind) ⭐ 118 | 🐛 0 | 🌐 C | 📅 2017-03-25 - Path-based dynamic analysis for 32-bit programs.
 * [SymEx-VP](https://github.com/agra-uni-bremen/symex-vp) ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2023-10-04 - Symbolic execution for RISC-V embedded firmware with accurate SystemC peripheral models.
 * [Mayhem](http://dx.doi.org/10.1109/SP.2012.31).
@@ -121,4 +121,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
