@@ -218,7 +218,7 @@
                 "id": 722783463,
                 "language": "Java",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-17T17:19:45Z",
+                "last_commit": "2026-11-18T10:08:38Z",
                 "open_issues": 28,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
@@ -478,11 +478,11 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T13:57:33Z",
-                "open_issues": 79,
+                "last_commit": "2026-11-19T05:02:14Z",
+                "open_issues": 69,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -574,7 +574,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3859,
+                "stars": 3858,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -607,7 +607,7 @@
                 "open_issues": 43,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
-                "stars": 2264,
+                "stars": 2263,
                 "topics": [
                   "arm",
                   "bap",
@@ -648,7 +648,7 @@
                 "open_issues": 18,
                 "owner": "airbus-seclab",
                 "repo": "bincat",
-                "stars": 1881,
+                "stars": 1882,
                 "topics": [
                   "disassembly",
                   "ida-plugin",
@@ -670,8 +670,8 @@
                 "id": 418854583,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-22T18:23:45Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-19T01:26:49Z",
+                "open_issues": 33,
                 "owner": "trailofbits",
                 "repo": "maat",
                 "stars": 652,
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:59:30.600Z",
+    "last_updated": "2026-11-19T08:01:25.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
@@ -888,7 +888,7 @@
       "open_issues": 4,
       "owner": "ksluckow",
       "repo": "awesome-symbolic-execution",
-      "stars": 1505,
+      "stars": 1504,
       "topics": [
         "awesome-list",
         "dynamic-analysis",
