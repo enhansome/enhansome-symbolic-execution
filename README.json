@@ -21,7 +21,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 331,
+                "stars": 333,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -66,10 +66,10 @@
                 "language": "Java",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-11T07:31:27Z",
-                "open_issues": 347,
+                "open_issues": 348,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3104,
+                "stars": 3103,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -96,10 +96,10 @@
                 "language": "Java",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-11T07:31:27Z",
-                "open_issues": 347,
+                "open_issues": 348,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3104,
+                "stars": 3103,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -126,10 +126,10 @@
                 "language": "Java",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-11T07:31:27Z",
-                "open_issues": 347,
+                "open_issues": 348,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3104,
+                "stars": 3103,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -159,7 +159,7 @@
                 "open_issues": 60,
                 "owner": "SymbolicPathFinder",
                 "repo": "jpf-symbc",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -277,7 +277,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 331,
+                "stars": 333,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -318,7 +318,7 @@
                 "open_issues": 9,
                 "owner": "Generative-Program-Analysis",
                 "repo": "GenSym",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "compiler",
                   "metaprogramming",
@@ -385,7 +385,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 331,
+                "stars": 333,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -454,7 +454,7 @@
                 "open_issues": 72,
                 "owner": "Samsung",
                 "repo": "jalangi2",
-                "stars": 505,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -482,7 +482,7 @@
                 "open_issues": 69,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1360,
+                "stars": 1359,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -516,7 +516,7 @@
                 "open_issues": 9,
                 "owner": "thomasjball",
                 "repo": "PyExZ3",
-                "stars": 346,
+                "stars": 344,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -574,7 +574,7 @@
                 "open_issues": 261,
                 "owner": "trailofbits",
                 "repo": "manticore",
-                "stars": 3858,
+                "stars": 3856,
                 "topics": [
                   "binary-analysis",
                   "blockchain",
@@ -648,7 +648,7 @@
                 "open_issues": 18,
                 "owner": "airbus-seclab",
                 "repo": "bincat",
-                "stars": 1882,
+                "stars": 1881,
                 "topics": [
                   "disassembly",
                   "ida-plugin",
@@ -670,11 +670,11 @@
                 "id": 418854583,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T01:26:49Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-20T03:05:34Z",
+                "open_issues": 32,
                 "owner": "trailofbits",
                 "repo": "maat",
-                "stars": 652,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -695,7 +695,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 331,
+                "stars": 333,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -819,7 +819,7 @@
                 "open_issues": 4,
                 "owner": "ispras",
                 "repo": "oss-sydr-fuzz",
-                "stars": 156,
+                "stars": 155,
                 "topics": [
                   "concolic",
                   "concolic-execution",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:01:25.437Z",
+    "last_updated": "2026-11-20T07:49:59.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
@@ -888,7 +888,7 @@
       "open_issues": 4,
       "owner": "ksluckow",
       "repo": "awesome-symbolic-execution",
-      "stars": 1504,
+      "stars": 1505,
       "topics": [
         "awesome-list",
         "dynamic-analysis",
