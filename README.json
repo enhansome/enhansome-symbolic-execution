@@ -69,7 +69,7 @@
                 "open_issues": 348,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3103,
+                "stars": 3102,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -99,7 +99,7 @@
                 "open_issues": 348,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3103,
+                "stars": 3102,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -129,7 +129,7 @@
                 "open_issues": 348,
                 "owner": "soot-oss",
                 "repo": "soot",
-                "stars": 3103,
+                "stars": 3102,
                 "topics": [
                   "analysis-framework",
                   "bytecode",
@@ -478,8 +478,8 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T05:02:14Z",
-                "open_issues": 69,
+                "last_commit": "2026-11-21T01:34:34Z",
+                "open_issues": 71,
                 "owner": "pschanely",
                 "repo": "CrossHair",
                 "stars": 1359,
@@ -670,8 +670,8 @@
                 "id": 418854583,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T03:05:34Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-20T22:28:48Z",
+                "open_issues": 34,
                 "owner": "trailofbits",
                 "repo": "maat",
                 "stars": 651,
@@ -815,8 +815,8 @@
                 "id": 415895268,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T15:50:23Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-20T12:34:38Z",
+                "open_issues": 5,
                 "owner": "ispras",
                 "repo": "oss-sydr-fuzz",
                 "stars": 155,
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:49:59.296Z",
+    "last_updated": "2026-11-21T07:46:09.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
