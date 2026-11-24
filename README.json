@@ -21,7 +21,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 334,
+                "stars": 336,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -218,7 +218,7 @@
                 "id": 722783463,
                 "language": "Java",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-21T14:08:53Z",
+                "last_commit": "2026-11-24T09:31:52Z",
                 "open_issues": 28,
                 "owner": "SWAT-project",
                 "repo": "SWAT",
@@ -277,7 +277,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 334,
+                "stars": 336,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -385,7 +385,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 334,
+                "stars": 336,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -478,11 +478,11 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T01:34:34Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-23T23:51:05Z",
+                "open_issues": 68,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1363,
+                "stars": 1366,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -541,7 +541,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-03T14:00:53Z",
-                "open_issues": 181,
+                "open_issues": 182,
                 "owner": "cea-sec",
                 "repo": "miasm",
                 "stars": 4021,
@@ -670,8 +670,8 @@
                 "id": 418854583,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T03:18:22Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-23T16:08:22Z",
+                "open_issues": 29,
                 "owner": "trailofbits",
                 "repo": "maat",
                 "stars": 651,
@@ -695,7 +695,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 334,
+                "stars": 336,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T08:20:04.509Z",
+    "last_updated": "2026-11-24T10:29:22.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
