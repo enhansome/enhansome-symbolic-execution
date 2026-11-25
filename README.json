@@ -21,7 +21,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 336,
+                "stars": 338,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -277,7 +277,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 336,
+                "stars": 338,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -385,7 +385,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 336,
+                "stars": 338,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -478,11 +478,11 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T23:51:05Z",
-                "open_issues": 68,
+                "last_commit": "2026-11-25T04:33:20Z",
+                "open_issues": 70,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1366,
+                "stars": 1368,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -695,7 +695,7 @@
                 "open_issues": 163,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 336,
+                "stars": 338,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:29:22.030Z",
+    "last_updated": "2026-11-25T09:17:29.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
@@ -888,7 +888,7 @@
       "open_issues": 4,
       "owner": "ksluckow",
       "repo": "awesome-symbolic-execution",
-      "stars": 1505,
+      "stars": 1506,
       "topics": [
         "awesome-list",
         "dynamic-analysis",
