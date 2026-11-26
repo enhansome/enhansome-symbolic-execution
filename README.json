@@ -478,11 +478,11 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T04:33:20Z",
+                "last_commit": "2026-11-25T21:05:30Z",
                 "open_issues": 70,
                 "owner": "pschanely",
                 "repo": "CrossHair",
-                "stars": 1368,
+                "stars": 1371,
                 "topics": [
                   "concolic-execution",
                   "contracts",
@@ -544,7 +544,7 @@
                 "open_issues": 182,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 4021,
+                "stars": 4025,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:17:29.133Z",
+    "last_updated": "2026-11-26T08:57:02.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
