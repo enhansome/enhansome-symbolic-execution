@@ -256,7 +256,7 @@
                 "open_issues": 59,
                 "owner": "eurecom-s3",
                 "repo": "symcc",
-                "stars": 888,
+                "stars": 889,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:17:52.645Z"
@@ -478,7 +478,7 @@
                 "id": 101762821,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T21:05:30Z",
+                "last_commit": "2026-11-26T18:19:44Z",
                 "open_issues": 70,
                 "owner": "pschanely",
                 "repo": "CrossHair",
@@ -544,7 +544,7 @@
                 "open_issues": 182,
                 "owner": "cea-sec",
                 "repo": "miasm",
-                "stars": 4025,
+                "stars": 4026,
                 "topics": [
                   "assembler",
                   "disassembler",
@@ -604,7 +604,7 @@
                 "language": "OCaml",
                 "license": "MIT",
                 "last_commit": "2026-05-07T15:28:41Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "BinaryAnalysisPlatform",
                 "repo": "bap",
                 "stars": 2263,
@@ -876,7 +876,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:57:02.152Z",
+    "last_updated": "2026-11-27T09:09:45.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.",
